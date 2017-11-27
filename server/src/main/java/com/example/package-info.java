@@ -1,6 +1,2 @@
-
-/*
-*This is a malaria
-*/
+/** {@inheritDoc} */
 package com.example;
-
