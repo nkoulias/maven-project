@@ -1,2 +1,2 @@
-/** sssss. */
+/** {@inheritDoc} */
 package com.example;
