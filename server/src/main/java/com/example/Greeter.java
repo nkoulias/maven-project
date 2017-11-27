@@ -11,7 +11,6 @@ public class Greeter {
   public Greeter() {
 
   }
- 
 /**
 * @param someone
 *@malakies
